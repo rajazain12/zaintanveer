@@ -11,7 +11,7 @@ I'm a Computer Science student passionate about building and deploying intellige
 *   **Tools:** Git
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/zain-tanveer-787564289)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/zain-tanveer-ai)
 - Email: zaintanveer1632@gmail.com
 
 ---
